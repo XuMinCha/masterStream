@@ -29,3 +29,4 @@ server/.root.*
 Thumbs.db
 *.orig
 *.class
+/target/
